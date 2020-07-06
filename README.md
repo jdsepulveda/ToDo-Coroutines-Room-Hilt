@@ -1,0 +1,6 @@
+- Hilt
+- Kotlin
+- MVVM
+- Coroutine
+- Room
+- Navigation
